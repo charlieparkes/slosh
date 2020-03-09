@@ -1,0 +1,9 @@
+docker/*.yml
+reports/
+behave_tests/
+.pytest_cache
+.tox
+.git
+.DS_Store
+db.sqlite3
+.coverage
